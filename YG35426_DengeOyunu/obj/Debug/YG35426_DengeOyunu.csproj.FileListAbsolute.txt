@@ -1,0 +1,19 @@
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\bin\Debug\YG35426_DengeOyunu.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\bin\Debug\YG35426_DengeOyunu.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\bin\Debug\YG35426_DengeOyunu.pdb
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.Form1.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.exe
+c:\users\pc\documents\visual studio 2013\Projects\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.pdb
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\bin\Debug\YG35426_DengeOyunu.exe.config
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\bin\Debug\YG35426_DengeOyunu.exe
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\bin\Debug\YG35426_DengeOyunu.pdb
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.csprojAssemblyReference.cache
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.Form1.resources
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.Properties.Resources.resources
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.csproj.GenerateResource.cache
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.exe
+C:\Users\CeyhunKarakuş\Desktop\BilgeAdam\BilgeAdam\YG35426\Intro\YG35426_DengeOyunu\YG35426_DengeOyunu\obj\Debug\YG35426_DengeOyunu.pdb
